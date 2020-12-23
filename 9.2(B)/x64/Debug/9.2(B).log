@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  9.2(A).cpp
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.2(A)\9.2(B)\9.2(A).cpp(21,1): error C2664: "int BinSearch(Student *,const int,const std::string,const Spec,const int)": невозможно преобразовать аргумент 4 из "int" в "const Spec"
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.2(A)\9.2(B)\9.2(A).cpp(21,51): message : Для преобразования в перечисляемый тип требуется явное приведение (static_cast, приведение в стиле С или приведение в стиле функции)
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.2(A)\lab 9.2(A)\lab 9.2(A).cpp(200,5): message : см. объявление "BinSearch"
